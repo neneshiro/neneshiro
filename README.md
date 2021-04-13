@@ -1,5 +1,4 @@
 <h2 align="center">👋 Hello! Welcome to my Github, I'm neneshiro!</h2>
- <img src="https://i.imgur.com/na8TlqA.gif" width="100%"/>
 
 
 <p align="center">
@@ -8,9 +7,9 @@
     <td>
       - 🔭 I’m currently working on <strong>QR Contact Tracing System</strong>
       <br/>
-      - 🌱 I’m currently learning <strong>C++ and Algorithms</strong>
+      - 🌱 I’m currently learning <strong>React JS and Angular JS Framework</strong>
       <br/>
-      - 💬 Ask me about <strong>Java, PHP, CSS and C#</strong>
+      - 💬 Ask me about <strong>Java, HTML, and CSS</strong>
       <br/>
       - 📫 How to reach me:
       <br/><br/>
