@@ -14,8 +14,7 @@
       - 📫 How to reach me:
       <br/><br/>
       <strong>📝 Current Projects:</strong>
-     
-      <br/>
+    
    </td>
     <td>
     <p align="center">
